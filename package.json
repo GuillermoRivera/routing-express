@@ -1,0 +1,12 @@
+{
+  "name": "routing-express",
+  "version": "0.0.1",
+  "description": "Manipulating routes with express framework",
+  "main": "server.js",
+  "repository": "https://github.com/GuillermoRivera/routing-express.git",
+  "author": "Juan Guillermo Rivera Orozco <guillerivera32@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
